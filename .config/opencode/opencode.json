@@ -11,11 +11,8 @@
 "ministral-3:14b": {
 "name": "ministral 3 14b (local)"
 },
-"deepseek-r1:8b": {
-"name": "deepseek r1 0528 8b (local)"
-},
-"deepseek-r1:14b": {
-"name": "deepseek r1 14b (local)"
+"qwen3-vl:8b": {
+"name": "qwen3 vl 8b (local)"
 },
 "gpt-oss:20b": {
 "name": "gpt oss 20b (local)"
@@ -29,5 +26,5 @@
 }
 }
 },
-"model": "ollama/deepseek-r1:8b"
+"model": "ollama/qwen3-vl:8b"
 }
