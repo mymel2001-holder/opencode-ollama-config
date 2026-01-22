@@ -20,5 +20,5 @@
 }
 }
 },
-"model": "gemini-3-flash-preview:cloud"
+"model": "ollama/ministral-3:8b"
 }
