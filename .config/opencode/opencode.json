@@ -8,8 +8,14 @@
 "baseURL": "http://100.126.87.101:11434/v1"
 },
 "models": {
-"ministral-3:8b": {
-"name": "ministral 3 8b (local)"
+"ministral-3:14b": {
+"name": "ministral 3 14b (local)"
+},
+"deepseek-r1:8b": {
+"name": "deepseek r1 8b (local)"
+},
+"gpt-oss:20b": {
+"name": "gpt oss 20b (local)"
 },
 "gemini-3-flash-preview:cloud": {
 "name": "gemini 3 flash (cloud)"
@@ -20,5 +26,5 @@
 }
 }
 },
-"model": "ollama/ministral-3:8b"
+"model": "ollama/gpt-oss:20b"
 }
