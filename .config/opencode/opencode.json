@@ -20,5 +20,5 @@
 }
 }
 },
-"model": "ollama/gpt-oss:20b"
+"model": "gemini-3-flash-preview:cloud"
 }
