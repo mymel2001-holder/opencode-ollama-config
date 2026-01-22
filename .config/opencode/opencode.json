@@ -11,8 +11,8 @@
 "ministral-3:14b": {
 "name": "ministral 3 14b (local)"
 },
-"qwen3-vl:8b": {
-"name": "qwen3 vl 8b (local)"
+"sparksammy/thinking-cogito-14b:latest": {
+"name": "cogito thinking 14b (local)"
 },
 "gpt-oss:20b": {
 "name": "gpt oss 20b (local)"
@@ -26,5 +26,5 @@
 }
 }
 },
-"model": "ollama/qwen3-vl:8b"
+"model": "ollama/gemini-3-flash-preview:cloud"
 }
